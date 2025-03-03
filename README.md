@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+***What is GitHub Flow?***
+Understanding GitHub flow is important for effective software development lifecycle.
